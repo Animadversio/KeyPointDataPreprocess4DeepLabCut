@@ -50,3 +50,5 @@ deeplabcut.create_labeled_video(config_path ['/analysis/project/videos/reachingv
 deeplabcut.plot_trajectories(config_path,['/analysis/project/videos/reachingvideo1.avi'])
 ```
 
+![](https://github.com/Animadversio/KeyPointDataPreprocess4DeepLabCut/TrackedFaceClip.gif)
+
